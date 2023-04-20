@@ -1,4 +1,4 @@
-package com.example.freelancerbenelux
+package com.morethanjustgame.freelancerbenelux
 
 import io.flutter.embedding.android.FlutterActivity
 
